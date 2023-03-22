@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\user\Desktop\20230322_5\20230322_5\main.cpp(12,8): warning C4477: 'scanf' : 서식 문자열 '%lf'에 'double *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+C:\Users\user\Desktop\20230322_5\20230322_5\main.cpp(14,8): warning C4477: 'scanf' : 서식 문자열 '%lf'에 'double *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+  20230322_5.vcxproj -> C:\Users\user\Desktop\20230322_5\x64\Debug\20230322_5.exe
